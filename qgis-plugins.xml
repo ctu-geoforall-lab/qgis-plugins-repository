@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <plugins>
+    <pyqgis_plugin name="VFK Plugin" version="2.0alfa">
+        <description>VFK Plugin</description>
+        <homepage>http://freegis.fsv.cvut.cz/gwiki/VFK_/_QGIS_plugin</homepage>
+        <qgis_minimum_version>2.8</qgis_minimum_version>
+        <file_name>qgis-vfk-plugin-master.zip</file_name>
+        <author_name>Anna Petrasova, Vaclav Petras, Stepan Bambula</author_name>
+        <download_url>https://codeload.github.com/ctu-osgeorel/qgis-vfk-plugin/zip/master</download_url>
+    </pyqgis_plugin>
     <pyqgis_plugin name="Suro Leveling" version="0.4">
         <description>Aerial Data Leveling</description>
         <homepage>https://github.com/ctu-osgeorel-proj/bp-pesek-2016</homepage>
@@ -7,6 +15,6 @@
         <file_name>bp-pesek-2016-master.zip</file_name>
         <author_name>Ondrej Pesek</author_name>
         <download_url>https://codeload.github.com/ctu-osgeorel-proj/bp-pesek-2016/zip/master</download_url>
-	<experimental>True</experimental>
+        <experimental>True</experimental>
     </pyqgis_plugin>
 </plugins>
