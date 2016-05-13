@@ -11,8 +11,8 @@
         <author_name>Anna Petrášová, Václav Petráš, Štěpán Bambula, Martin Landa</author_name>
         <download_url>https://codeload.github.com/ctu-osgeorel/qgis-vfk-plugin/zip/release-2_0</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="Suro Leveling" version="0.4">
-        <description>Aerial Data Leveling</description>
+    <pyqgis_plugin name="GPS Position Correction" version="0.4">
+        <description>Aerial Data Shift</description>
         <homepage>https://github.com/ctu-osgeorel-proj/bp-pesek-2016</homepage>
         <qgis_minimum_version>2.8</qgis_minimum_version>
         <file_name>bp-pesek-2016-master.zip</file_name>
