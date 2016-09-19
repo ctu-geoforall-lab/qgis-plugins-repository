@@ -13,11 +13,11 @@
     </pyqgis_plugin>
     <pyqgis_plugin name="GPS Position Lag Correction" version="0.4">
         <description>Aerial Data Shift</description>
-        <homepage>https://github.com/ctu-geoforall-lab-proj/bp-pesek-2016</homepage>
+        <homepage>https://github.com/ctu-geoforall-lab/qgis-position-lag-correction-plugin</homepage>
         <qgis_minimum_version>2.8</qgis_minimum_version>
-        <file_name>bp-pesek-2016-master.zip</file_name>
+        <file_name>qgis-position-lag-correction-plugin-master.zip</file_name>
         <author_name>Ondrej Pesek</author_name>
-        <download_url>https://codeload.github.com/ctu-geoforall-lab-proj/bp-pesek-2016/zip/master</download_url>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-position-lag-correction-plugin/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
 </plugins>
