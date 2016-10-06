@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="VFK Plugin" version="2.0BETA">
+    <pyqgis_plugin name="VFK Plugin" version="2.0.0">
         <description>Plugin umožňující práci s daty českého katastru
         nemovitostí ve formátu VFK. Plugin podporuje vyhledávání
         parcel, budov, vlastníků a jednotek. Výsledky vyhledávání je
