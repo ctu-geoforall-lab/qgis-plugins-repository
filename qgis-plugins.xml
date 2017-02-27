@@ -31,7 +31,7 @@
         <description>Nastroj pro stahovani datovych vrstev RUIAN</description>
         <homepage>https://ctu-geoforall-lab.github.io/qgis-ruian-plugin</homepage>
         <qgis_minimum_version>2.8</qgis_minimum_version>
-        <file_name>qgis-ruian-master.zip</file_name>
+        <file_name>qgis-ruian-plugin-master.zip</file_name>
         <author_name>Klima, Streda, Gajzler, Landa (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-ruian-plugin/zip/master</download_url>
 	<experimental>True</experimental>
