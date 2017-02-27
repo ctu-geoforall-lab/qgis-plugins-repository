@@ -34,5 +34,6 @@
         <file_name>qgis-ruian-master.zip</file_name>
         <author_name>Klima, Streda, Gajzler, Landa (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-ruian-plugin/zip/master</download_url>
+	<experimental>True</experimental>
     </pyqgis_plugin>
 </plugins>
