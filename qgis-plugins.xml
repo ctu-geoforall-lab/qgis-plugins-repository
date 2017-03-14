@@ -39,7 +39,7 @@
     <pyqgis_plugin name="PU Plugin" version="0.1">
         <description>Experimentalni nastroj pro pozemkove upravy</description>
         <homepage>https://ctu-geoforall-lab-projects.github.io/dp-svoboda-2017</homepage>
-        <qgis_minimum_version>2.8</qgis_minimum_version>
+        <qgis_minimum_version>2.16</qgis_minimum_version>
         <file_name>dp-svoboda-2017-master.zip</file_name>
         <author_name>Svovoda (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/dp-svoboda-2017/zip/master</download_url>
