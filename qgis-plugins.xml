@@ -45,4 +45,13 @@
         <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/dp-svoboda-2017/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
+    <pyqgis_plugin name="Ground Radiation Monitoring Plugin" version="0.1">
+        <description>Plugin calculates the amount of received radiation.</description>
+        <homepage>https://ctu-geoforall-lab-projects.github.io/bp-kala-2017</homepage>
+        <qgis_minimum_version>2.14</qgis_minimum_version>
+        <file_name>bp-kala-2017-master.zip</file_name>
+        <author_name>Kala (CTU GeoForAll Lab)</author_name>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/bp-kala-2017/zip/master</download_url>
+        <experimental>True</experimental>
+    </pyqgis_plugin>
 </plugins>
