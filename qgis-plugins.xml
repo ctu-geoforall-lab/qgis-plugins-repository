@@ -41,7 +41,7 @@
         <homepage>https://ctu-geoforall-lab-projects.github.io/dp-svoboda-2017</homepage>
         <qgis_minimum_version>2.16</qgis_minimum_version>
         <file_name>dp-svoboda-2017-master.zip</file_name>
-        <author_name>Svovoda (CTU GeoForAll Lab)</author_name>
+        <author_name>Svoboda (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/dp-svoboda-2017/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
