@@ -37,12 +37,12 @@
         <experimental>True</experimental>
     </pyqgis_plugin>
     <pyqgis_plugin name="PU Plugin" version="0.1">
-        <description>Experimentalni nastroj pro pozemkove upravy</description>
-        <homepage>https://ctu-geoforall-lab-projects.github.io/dp-svoboda-2017</homepage>
+        <description>Plugin pro zpracování přípravné fáze pozemkových úprav.</description>
+        <homepage>https://ctu-geoforall-lab.github.io/qgis-pu-plugin</homepage>
         <qgis_minimum_version>2.16</qgis_minimum_version>
-        <file_name>dp-svoboda-2017-master.zip</file_name>
+        <file_name>qgis-pu-plugin-master.zip</file_name>
         <author_name>Svoboda (CTU GeoForAll Lab)</author_name>
-        <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/dp-svoboda-2017/zip/master</download_url>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-pu-plugin/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
     <pyqgis_plugin name="Ground Radiation Monitoring Plugin" version="0.1">
