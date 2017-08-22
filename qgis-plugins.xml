@@ -41,7 +41,7 @@
         <homepage>https://ctu-geoforall-lab.github.io/qgis-pu-plugin</homepage>
         <qgis_minimum_version>2.16</qgis_minimum_version>
         <file_name>qgis-pu-plugin-master.zip</file_name>
-        <author_name>Svoboda (CTU GeoForAll Lab)</author_name>
+        <author_name>Ondrej Svoboda (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-pu-plugin/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
@@ -50,7 +50,7 @@
         <homepage>https://ctu-geoforall-lab-projects.github.io/bp-kala-2017</homepage>
         <qgis_minimum_version>2.14</qgis_minimum_version>
         <file_name>bp-kala-2017-master.zip</file_name>
-        <author_name>Kala (CTU GeoForAll Lab)</author_name>
+        <author_name>Michael Kala (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab-projects/bp-kala-2017/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
@@ -59,8 +59,17 @@
         <homepage>https://ctu-geoforall-lab.github.io/qgis-soil-erosion-plugin</homepage>
         <qgis_minimum_version>2.14</qgis_minimum_version>
         <file_name>qgis-soil-erosion-plugin-master.zip</file_name>
-        <author_name>Novotny (CTU GeoForAll Lab)</author_name>
+        <author_name>Radek Novotny (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-soil-erosion-plugin/zip/master</download_url>
+        <experimental>True</experimental>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Radiation Reconnaissance Results QGIS Plugin" version="0.1">
+        <description>This plugin generates polygons from grid.</description>
+        <homepage>https://ctu-geoforall-lab.github.io/qgis-radiation-reconnaissance-results-plugin/</homepage>
+        <qgis_minimum_version>2.14</qgis_minimum_version>
+        <file_name>qgis-radiation-reconnaissance-results-plugin-master.zip</file_name>
+        <author_name>Tereza Kulovana (CTU GeoForAll Lab)</author_name>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-radiation-reconnaissance-results-plugin/zip/master</download_url>
         <experimental>True</experimental>
     </pyqgis_plugin>
 </plugins>
