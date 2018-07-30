@@ -40,14 +40,13 @@
         <author_name>Kulovana, Kala, Landa (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-map-coords-plugin/zip/master</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="RUIAN Plugin" version="0.1">
+    <pyqgis_plugin name="RUIAN Plugin" version="1.0">
         <description>Nastroj pro stahovani datovych vrstev RUIAN</description>
         <homepage>https://ctu-geoforall-lab.github.io/qgis-ruian-plugin</homepage>
-        <qgis_minimum_version>2.8</qgis_minimum_version>
-        <file_name>qgis-ruian-plugin-master.zip</file_name>
+        <qgis_minimum_version>2.14</qgis_minimum_version>
+        <file_name>qgis-ruian-plugin-release-1_0.zip</file_name>
         <author_name>Klima, Streda, Gajzler, Landa (CTU GeoForAll Lab)</author_name>
-        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-ruian-plugin/zip/master</download_url>
-        <experimental>True</experimental>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-ruian-plugin/zip/release-1_0</download_url>
     </pyqgis_plugin>
     <pyqgis_plugin name="PU Plugin" version="0.1">
         <description>Plugin pro zpracování přípravné fáze pozemkových úprav.</description>
