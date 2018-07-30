@@ -40,7 +40,7 @@
         <author_name>Kulovana, Kala, Landa (CTU GeoForAll Lab)</author_name>
         <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-map-coords-plugin/zip/master</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="RUIAN Plugin" version="1.0">
+    <pyqgis_plugin name="RUIAN Plugin" version="1.0.0">
         <description>Nastroj pro stahovani datovych vrstev RUIAN</description>
         <homepage>https://ctu-geoforall-lab.github.io/qgis-ruian-plugin</homepage>
         <qgis_minimum_version>2.14</qgis_minimum_version>
