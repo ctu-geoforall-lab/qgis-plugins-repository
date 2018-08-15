@@ -9,7 +9,7 @@
         <qgis_minimum_version>2.8</qgis_minimum_version>
         <file_name>qgis-vfk-plugin-final-2_0_1.zip</file_name>
         <author_name>Petrasova, Petras, Bambula, Landa (CTU GeoForAll Lab)</author_name>
-        <download_url>https://github.com/ctu-geoforall-lab/qgis-vfk-plugin/archive/final-2_0_1.zip</download_url>
+        <download_url>https://codeload.github.com/ctu-geoforall-lab/qgis-vfk-plugin/zip/final-2_0_1</download_url>
     </pyqgis_plugin>
 <!--
     <pyqgis_plugin name="VFK Plugin (Kettner)" version="2.1BETA">
